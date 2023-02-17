@@ -25,8 +25,6 @@ team = lg.to_team(teamkey)
 #get team roster
 roster = team.roster()
 
-print(roster)
-
 print("=== MY TEAM ===")
 
 for r in roster:
