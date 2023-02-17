@@ -4,7 +4,7 @@ import time
 
 #connect to yahoo api
 
-sc =OAuth2(None, None, from_file='/home/kmcgrath/oauth2/yahoo/oauth2.json')
+sc =OAuth2(None, None, from_file='c:\proj\yahoo\oauth2.json')
 
 #get game object
 gm = yfa.Game(sc, 'nba')
