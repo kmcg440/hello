@@ -1,4 +1,4 @@
-# Intro
-## subtitle - hello
+# Yahoo Fantasy NBA Program
+## Drops and add players    
 
-Nba app
+Need to find player id then add to team add and team drop
